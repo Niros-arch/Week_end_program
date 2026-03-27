@@ -20,7 +20,8 @@ Connection established ✅
 - Error checking
 - Connection-based
 ### TCP Common Ports
-![[Pasted image 20260327151601.png]]
+<img width="814" height="377" alt="image" src="https://github.com/user-attachments/assets/ae01385b-dff6-439e-bccb-5ab7e73c7e49" />
+
 ## What is UDP?
 
 **User Datagram Protocol** is a **fast, connectionless** protocol.
@@ -49,4 +50,5 @@ Like sending a letter **without tracking**
 |161|SNMP|
 |500|VPN|
 |514|Syslog|
-![[Pasted image 20260327151655.png]]
+<img width="814" height="377" alt="image" src="https://github.com/user-attachments/assets/b29047b2-967f-428a-920a-7d60641516d0" />
+
