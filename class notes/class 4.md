@@ -36,8 +36,8 @@ IPv6 was created to replace IPv4 and provide an almost infinite number of addres
 - **Capacity:** Supports $3.4 \times 10^{38}$ addresses (340 undecillion).
 - **Features:** More secure (built-in IPsec) and more efficient routing than IPv4.
 ## Class of Networking
+<img width="822" height="453" alt="image" src="https://github.com/user-attachments/assets/55ced441-be39-4b40-9fe8-9362ff0f05d1" />
 
-![[Pasted image 20260322074148.png]]
 
 
 # OSI Model 
